@@ -9,3 +9,4 @@ def countPalindromicSubsequence(s):
             result += len(unique_chars)
     
     return result
+    
